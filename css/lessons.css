@@ -1,0 +1,14 @@
+#structure{
+		width:900px;
+		height:900px;
+		border:solid 3px #000;
+		margin:0 auto;
+}
+#banner{
+		padding-top: 10px;
+		width:90%;
+		height:28px;
+		border:dotted 2px #000;
+		margin:0 auto;
+
+}
